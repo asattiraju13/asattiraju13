@@ -6,7 +6,7 @@
 
 ### What I'm working on 💻
 - Learning front-end web development, Computer Vision
-- Contributing to Kaggle community via example notebooks and competitions
+- Developing ML skills via tutorial notebooks and competitions
 - Looking to getting involved with open source projects
 
 ### Skills 🧰
