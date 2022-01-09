@@ -15,7 +15,7 @@
 - Machine Learning: NumPy, Pandas, Scikit-learn, Tensorflow, Keras
 - Data Visualization: Matplotlib, Seaborn
 - Backend Development: Flask, SQL
-- Frontend Development: HTML, CSS, JavaScript
+- Frontend Development: HTML, CSS, TailwindCSS, Bootstrap, JavaScript
 
 ### Contact 📫
 Feel free to reach out to me at <asattiraju3@gatech.edu>.
