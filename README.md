@@ -5,7 +5,7 @@
 - Passionate about data science, machine learning, and deep learning with real-world applications.
 
 ### What I'm working on 💻
-- Building a Personal Website with HTML, Tailwind CSS, and Vanilla JS
+- Building my Personal Website
 - Learning in-depth Computer Vision
 - Developing ML skills via tutorial notebooks and competitions
 - Looking to getting involved with open source projects
