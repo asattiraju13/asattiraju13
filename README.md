@@ -6,8 +6,7 @@
 
 ### What I'm working on 💻
 - Researching Deep Learning and Explainability with Neuroimaging Data
-- Building my Personal Website
-- Learning Computer Vision with OpenCV, Backend Development
+- Learning React and Math for Machine Learning
 - Looking to getting involved with open source projects
 
 ### Skills 🧰
