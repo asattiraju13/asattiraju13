@@ -7,10 +7,10 @@
 ### What I'm working on 💻
 - Researching Deep Learning and Explainability with Time Series Data
 - Learning Math for Machine Learning
-- Looking to getting involved with open source projects
+- Building the website for GT's Big Data Big Impact Club
 
 ### Skills 🧰
-- Main Languages: Python, Java
+- Main Languages: Python, Java, C
 - Machine Learning: NumPy, Pandas, Scikit-learn, Tensorflow, Keras
 - Data Visualization: Matplotlib, Seaborn, Plotly
 - Backend Development: Flask, SQL
