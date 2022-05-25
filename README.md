@@ -2,19 +2,18 @@
 
 ### Who am I 🧑‍🎓
 - Student at Georgia Institute of Technology studying Computer Science, with concentrations in Intelligence and Theory.
-- Passionate about data science, machine learning, and deep learning with real-world applications.
+- Passionate about ML with real-world applications.
 
 ### What I'm working on 💻
-- Researching Deep Learning and Explainability with Time Series Data
-- Learning Math for Machine Learning
-- Building the website for GT's Big Data Big Impact Club
+- Research
+- Front-end Development
 
 ### Skills 🧰
-- Main Languages: Python, Java, C
+- Main Languages: Python, Java, Javascript, SQL
 - Machine Learning: NumPy, Pandas, Scikit-learn, Tensorflow, Keras
 - Data Visualization: Matplotlib, Seaborn, Plotly
-- Backend Development: Flask, SQL
-- Frontend Development: HTML, CSS, Tailwind CSS, Bootstrap, JavaScript, React
+- Backend Development: Flask, Express, MongoDB
+- Frontend Development: HTML, CSS, Tailwind CSS, Bootstrap, React
 
 ### Contact 📫
 Feel free to reach out to me at <asattiraju3@gatech.edu>.
